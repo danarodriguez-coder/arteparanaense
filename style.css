@@ -1,12 +1,24 @@
 body{
     background-color:aqua;
+    color:aquamarine;
+    font-family: Arial, sans-serif;
 }
 header{
     background-color:pink;
+    color:dodgerblue;
+    text-align: center;
+    padding: 30px;
 }
-main{
-    background-color: rgb(250, 250, 123);
+
+h1 {
+font-size: 36px;
 }
-section{
-    background-color: violet;
+
+h2 {
+    color:cornflowerblue;
+}
+
+p {
+    font-size: 18px;
+    line-height: 1.6;
 }
