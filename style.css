@@ -114,4 +114,10 @@ button:hover {
     display: block;
     width: fit-content;
     margin: 20px auto;
+
+}
+.galeria{
+    display: flex;
+    gap: 20px;
+    flex-wrap:wrap ;
 }
